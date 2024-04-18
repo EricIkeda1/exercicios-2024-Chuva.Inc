@@ -37,6 +37,30 @@ h1, h2, li, p, td {
   padding-left: 0; 
 }
 
+/* Estilo base para os itens do menu */
+.list-group-item {
+  background-color: #f8f9fa; /* Cor de fundo cinza claro para itens não selecionados */
+  color: black; /* Cor do texto para itens não selecionados */
+  border-radius: 5px; /* Cantos levemente arredondados para manter o estilo quadrado */
+  margin-bottom: 10px; /* Espaçamento entre os itens do menu */
+  padding: 15px 20px; /* Espaçamento interno para cada item do menu */
+  font-family: 'Arial', sans-serif; /* Fonte do texto */
+  font-size: 16px; /* Tamanho do texto */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Sombra leve para dar profundidade */
+  /* Adicione mais estilos conforme necessário */
+}
+
+/* Estilo para os links dentro dos itens do menu */
+.list-group-item a {
+  text-decoration: none;
+  color: black; /* Cor do texto para todos os itens */
+}
+
+/* Estilo para os itens do menu quando o mouse passa por cima */
+.list-group-item:hover {
+  background-color: #FFA07A; /* Cor de fundo mais escura ao passar o mouse */
+}
+
 .ISSN {
   margin-top: -5px;
 }
@@ -51,7 +75,7 @@ h1, h2, li, p, td {
 }
 
 .side_bar_elements {
-  background: #f39746;
+  background: #e78e3f;
   height: 90px;
   display: flex;
   justify-content: center;
@@ -147,4 +171,5 @@ th {
   justify-content: flex-end;
   margin-top: 20px;
 }
+
 
