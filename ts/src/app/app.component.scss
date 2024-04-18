@@ -75,9 +75,76 @@ h1, h2, li, p, td {
   height: 5;
 }
 
+.page_title {
+  width: calc(100% - 320px);
+  min-height: 100%;
+  height: auto;
+}
+
 .opcao_da_pagina {
   width: 320px;
   height: auto;
   min-height: 100%;
   overflow-x: hidden; //Centraliza a tela, fazendo com que não mova para os lados
 }
+
+.dark_text {
+  color: #585656;
+}
+  
+.about_container {
+  display: flex;
+  min-width: 100%;
+  width: auto;
+  max-height: 100%;
+  height: auto;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.about th {
+  color: #4e4e4e;
+  background-color: #fdf1eb;
+  padding-left: 10px;
+  height: 60px;
+}
+
+.about td {
+  border: 1px solid #dee2e6;
+}
+
+
+.about {
+  width: calc(100vw - 390px);
+  margin-right: 45px;
+}
+
+th {
+  border-radius: 5px 5px 0 0;
+}
+
+.show_less {
+  display: none;
+}
+
+.btn-show-more {
+  color: #cc642c;
+  cursor: pointer;
+  font-weight: bold;  
+}
+
+.btn-show-less {
+  color: #d66e37;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.topics_container {
+  display: flex;
+  min-width: 100%;
+  width: auto;
+  max-height: 100%;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
