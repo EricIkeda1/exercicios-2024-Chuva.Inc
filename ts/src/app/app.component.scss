@@ -12,6 +12,10 @@
   color: rgb(12, 12, 12);
 }
 
+h1, h2, li, p, td {
+  overflow-y: hidden;
+}
+
 .topico {
   display: flex;
   background-color: #f7f0edfa;
@@ -71,3 +75,9 @@
   height: 5;
 }
 
+.opcao_da_pagina {
+  width: 320px;
+  height: auto;
+  min-height: 100%;
+  overflow-x: hidden; //Centraliza a tela, fazendo com que não mova para os lados
+}
