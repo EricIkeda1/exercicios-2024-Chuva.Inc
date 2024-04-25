@@ -1,5 +1,5 @@
 import { defineConfig } from "cypress";
-import { getCompareSnapshotsPlugin } from "cypress-visual-regression/dist/plugin";
+const getCompareSnapshotsPlugin = require("cypress-visual-regression/dist/plugin");
 
 export default defineConfig({
   env: {
@@ -30,4 +30,7 @@ export default defineConfig({
     },
     specPattern: "**/*.cy.ts",
   },
-});
+
+  },
+);
+
