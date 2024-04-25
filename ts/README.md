@@ -44,4 +44,4 @@ npx cypress open --env type=base
 Pra facilitar sua vida, nosso repositório já vem com pronto pra consumo, e mesmo que você não for familiar com o Angular ou Typescript, dá pra só colocar o html e o scss nos arquivos corretos, e vai funcionar (inclusive os testes automatizados vão passar).
 
 Não esqueca de commitar os screenshots que o cypress gera, utilizaremos eles na correção do exercício.
-aa
+aaa
