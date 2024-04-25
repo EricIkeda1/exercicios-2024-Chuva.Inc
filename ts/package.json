@@ -30,7 +30,6 @@
     "@angular/compiler-cli": "^14.0.0",
     "@types/jasmine": "~4.0.0",
     "cypress": "^13.3.0",
-    "cypress-plugin-snapshots": "^1.4.4",
     "cypress-visual-regression": "^5.0.0",
     "jasmine-core": "~4.3.0",
     "karma": "~6.4.0",
