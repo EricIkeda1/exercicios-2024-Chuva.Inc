@@ -1,0 +1,128 @@
+[2024-04-25 15:47:15Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin'
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Root': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner'
+[2024-04-25 15:47:15Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.credentials'
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin'
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Root': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner'
+[2024-04-25 15:47:15Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.runner'
+[2024-04-25 15:47:15Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-04-25 15:47:15Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2024-04-25 15:47:15Z INFO Listener] Version: 2.316.0
+[2024-04-25 15:47:15Z INFO Listener] Commit: 14cea13ab5e7a5f385d805bf8a9034947d25f1b6
+[2024-04-25 15:47:15Z INFO Listener] Culture: pt-BR
+[2024-04-25 15:47:15Z INFO Listener] UI Culture: pt-BR
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin'
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Root': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner'
+[2024-04-25 15:47:15Z INFO Listener] Validating directory permissions for: 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner'
+[2024-04-25 15:47:15Z INFO CommandLineParser] Parse
+[2024-04-25 15:47:15Z INFO CommandLineParser] Parsing 1 args
+[2024-04-25 15:47:15Z INFO CommandLineParser] parsing argument
+[2024-04-25 15:47:15Z INFO CommandLineParser] HasArgs: False
+[2024-04-25 15:47:15Z INFO CommandLineParser] Adding Command: run
+[2024-04-25 15:47:15Z INFO Listener] Arguments parsed
+[2024-04-25 15:47:15Z INFO Runner] ExecuteCommand
+[2024-04-25 15:47:15Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin\Runner.Listener.dll
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin'
+[2024-04-25 15:47:15Z INFO ConfigurationStore] binPath: C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin'
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Root': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner'
+[2024-04-25 15:47:15Z INFO ConfigurationStore] RootFolder: C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin'
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Root': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner'
+[2024-04-25 15:47:15Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.runner'
+[2024-04-25 15:47:15Z INFO ConfigurationStore] ConfigFilePath: C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.runner
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin'
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Root': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner'
+[2024-04-25 15:47:15Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.credentials'
+[2024-04-25 15:47:15Z INFO ConfigurationStore] CredFilePath: C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.credentials
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin'
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Root': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner'
+[2024-04-25 15:47:15Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.credentials_migrated'
+[2024-04-25 15:47:15Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.credentials_migrated
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin'
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Root': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner'
+[2024-04-25 15:47:15Z INFO HostContext] Well known config file 'Service': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.service'
+[2024-04-25 15:47:15Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.service
+[2024-04-25 15:47:15Z INFO CommandSettings] Flag 'help': 'False'
+[2024-04-25 15:47:15Z INFO CommandSettings] Flag 'version': 'False'
+[2024-04-25 15:47:15Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-04-25 15:47:15Z INFO CommandSettings] Flag 'check': 'False'
+[2024-04-25 15:47:15Z INFO CommandSettings] Command 'configure': 'False'
+[2024-04-25 15:47:15Z INFO CommandSettings] Command 'remove': 'False'
+[2024-04-25 15:47:15Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-04-25 15:47:15Z INFO ConfigurationManager] LoadSettings
+[2024-04-25 15:47:15Z INFO ConfigurationStore] IsConfigured()
+[2024-04-25 15:47:15Z INFO ConfigurationStore] IsConfigured: True
+[2024-04-25 15:47:15Z INFO ConfigurationManager] Is configured: True
+[2024-04-25 15:47:15Z INFO ConfigurationStore] Read setting file: 314 chars
+[2024-04-25 15:47:15Z INFO ConfigurationManager] Settings Loaded
+[2024-04-25 15:47:15Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-04-25 15:47:15Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-04-25 15:47:15Z INFO CommandSettings] Command 'run': 'True'
+[2024-04-25 15:47:15Z INFO ConfigurationStore] IsConfigured()
+[2024-04-25 15:47:15Z INFO ConfigurationStore] IsConfigured: True
+[2024-04-25 15:47:15Z INFO ConfigurationManager] Is configured: True
+[2024-04-25 15:47:15Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2024-04-25 15:47:15Z INFO Runner] Set runner startup type - Manual
+[2024-04-25 15:47:15Z INFO CommandSettings] Flag 'once': 'False'
+[2024-04-25 15:47:15Z INFO CommandSettings] Flag 'once': 'False'
+[2024-04-25 15:47:15Z INFO Runner] RunAsync
+[2024-04-25 15:47:15Z INFO ConfigurationManager] LoadSettings
+[2024-04-25 15:47:15Z INFO ConfigurationStore] IsConfigured()
+[2024-04-25 15:47:15Z INFO ConfigurationStore] IsConfigured: True
+[2024-04-25 15:47:15Z INFO ConfigurationManager] Is configured: True
+[2024-04-25 15:47:15Z INFO ConfigurationManager] Settings Loaded
+[2024-04-25 15:47:15Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "DELL",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus10.actions.githubusercontent.com/TLYDximoh3VNA2SnLbuqW6ybb89H65UYtbIYF4lMRB6huXjEo5/",
+  "GitHubUrl": "https://github.com/ikedayuji/exercicios-2024-Chuva.Inc",
+  "WorkFolder": "_work"
+}
+[2024-04-25 15:47:15Z INFO MessageListener] Loading Credentials
+[2024-04-25 15:47:15Z INFO ConfigurationStore] HasCredentials()
+[2024-04-25 15:47:15Z INFO ConfigurationStore] stored True
+[2024-04-25 15:47:15Z INFO CredentialManager] GetCredentialProvider
+[2024-04-25 15:47:15Z INFO CredentialManager] Creating type OAuth
+[2024-04-25 15:47:15Z INFO CredentialManager] Creating credential type: OAuth
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\bin'
+[2024-04-25 15:47:15Z INFO HostContext] Well known directory 'Root': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner'
+[2024-04-25 15:47:15Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.credentials_rsaparams'
+[2024-04-25 15:47:15Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.credentials_rsaparams
+[2024-04-25 15:47:15Z INFO MessageListener] Attempt to create session.
+[2024-04-25 15:47:15Z INFO MessageListener] Connecting to the Runner Server...
+[2024-04-25 15:47:15Z INFO RunnerServer] EstablishVssConnection
+[2024-04-25 15:47:15Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-04-25 15:47:15Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-04-25 15:47:15Z INFO RunnerServer] EstablishVssConnection
+[2024-04-25 15:47:15Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-04-25 15:47:15Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-04-25 15:47:15Z INFO RunnerServer] EstablishVssConnection
+[2024-04-25 15:47:15Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-04-25 15:47:15Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-04-25 15:47:16Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-04-25 15:47:16Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-04-25 15:47:16Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-04-25 15:47:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-04-25 15:47:17Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-04-25 15:47:17Z INFO MessageListener] VssConnection created
+[2024-04-25 15:47:17Z INFO Terminal] WRITE LINE: 
+[2024-04-25 15:47:17Z INFO Terminal] WRITE LINE: 
+[2024-04-25 15:47:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.credentials_rsaparams
+[2024-04-25 15:47:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Eric Yuji Ikeda\Documents\VScode\exercicios-2024-Chuva.Inc\actions-runner\.credentials_rsaparams
+[2024-04-25 15:47:18Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-04-25 15:47:18Z INFO MessageListener] Session created.
+[2024-04-25 15:47:18Z INFO Terminal] WRITE LINE: Current runner version: '2.316.0'
+[2024-04-25 15:47:18Z INFO Terminal] WRITE LINE: 2024-04-25 15:47:18Z: Listening for Jobs
+[2024-04-25 15:47:18Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2024-04-25 15:47:54Z INFO Terminal] WRITE LINE: Exiting...
+[2024-04-25 15:47:54Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-04-25 15:47:54Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-04-25 15:47:54Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2024-04-25 15:47:54Z WARN GitHubActionsService] GET request to https://pipelinesghubeus10.actions.githubusercontent.com/TLYDximoh3VNA2SnLbuqW6ybb89H65UYtbIYF4lMRB6huXjEo5/_apis/distributedtask/pools/1/messages?sessionId=31905377-70ea-425f-aa3e-1ad9f3d339a7&status=Online&runnerVersion=2.316.0&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2024-04-25 15:47:54Z INFO MessageListener] Get next message has been cancelled.
+[2024-04-25 15:47:54Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2024-04-25 15:47:54Z INFO Runner] Deleting Runner Session...
+[2024-04-25 15:47:54Z INFO Listener] Runner execution been cancelled.
