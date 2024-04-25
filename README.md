@@ -25,7 +25,7 @@ Sim, pode resolver em todos se quiser, e vamos levar todas as resoluções em co
 Não, você pode resolver só um, dois, ou todos.
 
 ## Como entregar os exercícios?
-
+.
 Para entregar os exercícios:
 
 1. Crie um fork **público** deste repositório.
