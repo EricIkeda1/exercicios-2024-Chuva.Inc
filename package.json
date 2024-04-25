@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^17.3.5",
+    "@angular/cli": "^17.3.5",
+    "@angular/common": "^17.3.5",
+    "@angular/core": "^17.3.5",
+    "@angular/platform-browser-dynamic": "^17.3.5",
+    "cypress": "^13.8.1"
+  }
+}
