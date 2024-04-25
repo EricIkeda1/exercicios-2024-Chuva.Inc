@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "node server.js",
+    "start": "ec189971-7e2d-4dbf-93e5-594eea64dcc5",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "start-server-and-test start http://localhost:4200 cypress:run-base",
